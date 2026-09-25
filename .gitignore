@@ -1,0 +1,9 @@
+# Saida do build
+/dist/
+
+# Gerado em runtime
+/logs/
+
+# Go
+*.test
+*.out
